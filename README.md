@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there, I'm Nihal 👋
+
+I am a 2rd Year Computer Science Student studying at Wilfrid Laurier University. 
+I am currently seeking a 4-8 month internship in the field of Software Engineering, Web Development, or App Development.
 
 <!--
 **Nihal-P/Nihal-P** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
