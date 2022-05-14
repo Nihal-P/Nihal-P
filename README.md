@@ -1,6 +1,6 @@
 ### Hi there, I'm Nihal 👋
 
-I am a 2nd Year Computer Science Student studying at Wilfrid Laurier University. 
+I am a 3nd Year Computer Science Student studying at Wilfrid Laurier University. 
 I am currently seeking a 4-8 month internship in the field of Software Engineering, Web Development, or App Development.
 
 <!--
